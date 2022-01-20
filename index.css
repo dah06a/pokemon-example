@@ -1,0 +1,6 @@
+#container {
+    height: 100vh;
+    background-image: url('./img/city.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
